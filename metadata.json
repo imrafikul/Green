@@ -1,0 +1,6 @@
+{
+  "name": "Green Link Network - Premium Internet Service Provider",
+  "description": "Official website for Green Link Network (Green Internet), delivering high-speed fiber-optic broadband, FTTH, BDIX, and corporate connectivity in Badda, Dhaka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
